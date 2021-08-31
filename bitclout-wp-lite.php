@@ -7,4 +7,3 @@
  * Author: Andrew Kamal
  * Author URI: http://www.peer-social.com
  */
-?>
