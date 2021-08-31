@@ -7,7 +7,6 @@
  * Author: Andrew Kamal
  * Author URI: http://www.bitclout.com/u/AMKN
  */
-<?php
 add_action( 'admin_menu', 'bitclout-wp-lite_add_admin_menu' );
 add_action( 'admin_init', 'bitclout-wp-lite_settings_init' );
 
