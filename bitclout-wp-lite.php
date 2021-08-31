@@ -171,4 +171,3 @@ function bitclout-wp-lite_options_page(  ) {
 		<?php
 
 }
-}?>
