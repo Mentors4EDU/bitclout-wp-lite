@@ -1,12 +1,4 @@
 <?php
-/**
- * Plugin Name: BitClout WP Lite Plugin
- * Plugin URI: http://www.peer-social.com
- * Description: Minimalist creator coin tiers list for BitClout creators
- * Version: 1.0
- * Author: Andrew Kamal
- * Author URI: http://www.bitclout.com/u/AMKN
- */
 add_action( 'admin_menu', 'bitclout-wp-lite_add_admin_menu' );
 add_action( 'admin_init', 'bitclout-wp-lite_settings_init' );
 
