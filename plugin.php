@@ -7,3 +7,7 @@
  * Author: Andrew Kamal
  * Author URI: http://www.peer-social.com
  */
+
+require_once dirname( __FILE__ ) . '/src/class.settings-api.php';
+
+new Settings_API();
