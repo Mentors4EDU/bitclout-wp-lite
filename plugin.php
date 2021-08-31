@@ -11,4 +11,3 @@
 require_once dirname( __FILE__ ) . '/src/class.settings-api.php';
 
 new bitclout_add_admin_menu();
-new bitclout_settings_init();
